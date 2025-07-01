@@ -1,0 +1,15 @@
+
+
+input {
+  width: 100%;
+}
+
+
+.my-btn {
+  min-width: 80px;
+  float: left;
+}
+
+.my-row {
+  margin: 10px 5px;
+}
